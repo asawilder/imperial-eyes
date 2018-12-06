@@ -1,15 +1,12 @@
 ---
 title: Home
-banner_image: "/uploads/2018/02/17/building.jpg"
+banner_image: "/uploads/2018/12/06/1200px-Stavanger_city_map_cut.jpg"
 layout: landing-page
-heading: Belkirk College
+heading: imperial eyes
 partners: []
 services: []
-sub_heading: Engineering and Health Sciences
-textline: |
-  Belkirk College of Engineering
-
-  Ora et Labora
+sub_heading: a digital humanities project
+textline: hello
 hero_button:
   text: Learn more
   href: "/about"
